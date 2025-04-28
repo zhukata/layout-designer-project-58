@@ -1,0 +1,16 @@
+/** CSS STYLE **/
+
+.hello {
+  display: block;
+
+  color: #fff;
+}
+
+header {
+  position: absolute;
+  width: 1440px;
+  height: 914px;
+  left: 0px;
+  top: 0px;
+  background: #F5F4F0;
+}
